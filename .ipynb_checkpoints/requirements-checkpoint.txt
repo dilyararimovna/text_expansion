@@ -1,0 +1,7 @@
+urllib3==1.25.4
+transformers==2.8.0
+pymorphy2==0.8
+spacy==2.1.9
+jsonlines
+deeppavlov
+tensorflow-gpu==1.15.2
