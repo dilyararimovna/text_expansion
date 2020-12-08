@@ -1,5 +1,7 @@
 # AI CopyWriter on ruGPT3Large
 
+The project took 3d place in AI Humanities contest https://ai-journey.ru/contest/task03
+
 Link to Colab Notebook https://colab.research.google.com/github/dilyararimovna/text_expansion/blob/main/Text_Expansion.ipynb 
 (запасная ссылка на файл https://colab.research.google.com/drive/1-iF4CjDh_LHQrFlhgQjUEWsk5Cz6ObiF?usp=sharing).
 
