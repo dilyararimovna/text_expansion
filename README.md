@@ -2,10 +2,10 @@
 
 The project took 3d place in AI Humanities contest https://ai-journey.ru/contest/task03
 
-Link to Colab Notebook https://colab.research.google.com/github/dilyararimovna/text_expansion/blob/main/Text_Expansion.ipynb 
-(запасная ссылка на файл https://colab.research.google.com/drive/1-iF4CjDh_LHQrFlhgQjUEWsk5Cz6ObiF?usp=sharing).
+Link to Colab Notebook https://colab.research.google.com/github/dilyararimovna/text_expansion/blob/main/Text_Expansion.ipynb.
 
-Installation of dependencies for notebook running is presented in notebook.
+Installation of dependencies for notebook running is presented in notebook. 
+**Don't forget to restart the runtime in Colab after dependency installation.**
 
 Installation for usage from py file.
 
